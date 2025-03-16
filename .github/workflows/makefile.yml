@@ -20,6 +20,7 @@ jobs:
           kernel-branch: oneplus/mt6983_t_13.0_oneplus_ace_2v
           config: defconfig
           arch: arm64
+          aosp-gcc: true
           aosp-clang: true
           # ksu: true
           # ksu-version: main
